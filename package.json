@@ -1,8 +1,11 @@
 {
   "scripts": {
-    "demo": "node hello.js"
+    "demo": "node -r esm hello.js"
   },
   "dependencies": {
     "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "esm": "3.0.84"
   }
 }

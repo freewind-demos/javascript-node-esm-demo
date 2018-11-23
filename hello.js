@@ -1,3 +1,3 @@
-const _ = require('lodash')
+import _ from 'lodash';
 
-console.log('Hello, ' + _.capitalize('javascript'))
+console.log('Hello, ' + _.capitalize('javascript'));

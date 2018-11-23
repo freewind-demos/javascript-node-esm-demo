@@ -1,5 +1,7 @@
-JavaScript Backend Hello World Demo
-===================================
+JavaScript Node Esm Demo
+===================
+
+让node支持`import * from '???'`的语法。
 
 ```
 npm install
